@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024015711698",
+    "project_id": "bn-mobile-7e66b",
+    "storage_bucket": "bn-mobile-7e66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024015711698:android:011d9c21ed3b7070705c0b",
+        "android_client_info": {
+          "package_name": "com.example.bn_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024015711698-4n97j0vpibfk36dkb1c0htgnv7tc6qfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_gD4nOXBHVOdVn-OYioI6Hq79XL3tOZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024015711698-4n97j0vpibfk36dkb1c0htgnv7tc6qfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
